@@ -92,7 +92,7 @@ li {
 
 .email-link {
   text-align: center;
-  display: block;
+  display: block; 
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
